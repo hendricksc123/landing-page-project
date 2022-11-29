@@ -1,3 +1,6 @@
+body {
+    margin: 0%;
+}
 .header {
     background-color: #1f2937;
     display: flex;
@@ -20,14 +23,32 @@ li {
 .bottom {
     background-color: #1f2937;
     display: flex;
+    justify-content: space-around;
+    justify-content: center;
 }
 .hero {
     font-size: 48px;
     color: #f9faf8;
     font-weight: 800;
+    width: 300px;
+    margin-right: 110px;
+    margin-top: 40px;
 }
 .subtext {
     font-size: 18px;
     color: #e5e7eb;
+    width: 400px;
+}
+.hero-text {
+    margin-right: 120px;
 
+}
+.button {
+    margin-bottom: 30px;
+    border-radius: 12px;
+    background-color: #3882f6;
+}
+.image {
+    width: 500px;
+    height: 250px;
 }
