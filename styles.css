@@ -17,3 +17,17 @@ li {
     margin: 10px;
     margin-top: 0%;
 }
+.bottom {
+    background-color: #1f2937;
+    display: flex;
+}
+.hero {
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 800;
+}
+.subtext {
+    font-size: 18px;
+    color: #e5e7eb;
+
+}
