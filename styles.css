@@ -1,0 +1,19 @@
+.header {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: space-around;
+}
+.logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+.links {
+    flex-direction: row;
+    font-size: 18px;
+    color: #e5e7eb;
+}
+li {
+    display: inline-block;
+    margin: 10px;
+    margin-top: 0%;
+}
