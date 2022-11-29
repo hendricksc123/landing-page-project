@@ -1,1 +1,2 @@
 # landing-page-project
+In this project I will be creating a web page layout from a design provided to me by The Odin Project. The purpose of this project is to demonstrate my skills in HTML, CSS, and using google and completed TOP lessons for reference if I find myself stuck.
