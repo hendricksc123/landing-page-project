@@ -20,7 +20,7 @@ li {
     margin: 10px;
     margin-top: 0%;
 }
-.bottom {
+.bottom-header {
     background-color: #1f2937;
     display: flex;
     justify-content: space-around;
@@ -53,10 +53,35 @@ li {
     width: 500px;
     height: 250px;
 }
-.info {
-    font-size: 38px;
-    font-weight: 800;
-    color: #1f2937;
+.section-two {
+    display: flex;
+    flex-direction: column;
+}
+h1 {
+    text-align: center;
+    margin-top: 60px;
+}
+.rounded-blue {
+    border: 5px solid #3882f6;
+    border-radius: 20px;
+    width: 180px;
+    height: 180px;
+    display: flex;
+    align-items: center;
+}
+.image-subtext {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    max-width: 200px;
+    padding: 15px;
+    margin-top: 30px;
+}
+.image-subtext-wrap {
     display: flex;
     justify-content: center;
+    margin-bottom: 40px;
 }
+
+
